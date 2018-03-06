@@ -1,0 +1,13 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="edu.tectii.eva1_5_to_be_or_not.ListaFragment">
+
+
+    <ListView
+        android:id="@+id/lsttitulos"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+</LinearLayout>
